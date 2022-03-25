@@ -1,0 +1,14 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "Sample Todolist Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uddeshya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
